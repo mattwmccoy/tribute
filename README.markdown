@@ -1,7 +1,7 @@
 # FCC Tribute Page: Walter Payton 
  _A Pen created at CodePen.io. Original URL: [https://codepen.io/mattmccoy/pen/ZPQGed](https://codepen.io/mattmccoy/pen/ZPQGed).
 
- A project created by Matt McCoy on February 28, 2019 for FreeCodeCamp's Tribute Page project
+ A project created by Matt McCoy on February 28, 2019 for FreeCodeCamp's Tribute Page Project
  
 # Project Objectives
 
