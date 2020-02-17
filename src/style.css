@@ -1,0 +1,45 @@
+html {
+  background-color: #f48342;
+  color: white;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+img {
+  display: block;
+  margin: auto;
+  border-radius: 20px;
+  max-width: 80%;
+}
+
+p1 {
+  text-align: center;
+  font-size: 30px;
+}
+
+p2 {
+  font-size: 20px;
+}
+footer {
+  background-color: #fff;
+  text-align: ;
+  font-style: italic;
+  font-size: 15px;
+  
+}
+
+body {
+  font-size: 25px;
+}
+html {
+  height: 100%;
+}
+
+ul {
+  font-size: 18px;
+}
+
+#wiki {
+  text-align: center;
+  background-color: white;
+  color: orange;
+}
